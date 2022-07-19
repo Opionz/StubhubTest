@@ -1,5 +1,6 @@
 ## 1.)
-	1.) 
+	1.) Question : What should be your approach to getting the list of events?
+	    Answer : Group events by similar cities and Save in a List
 	2.) Question : How would you call the AddToEmail method in order to send the events in an email?
 	    Answer: While iterating the list of events I will call the AddToEmail method in each iteration.
 	3.) Question: What is the expected output if we only have the client John Smith?
@@ -8,7 +9,7 @@
 		Answer: None
 
 ## 2.)
-	1.) Question: What should be your approach to getting the distance between the customer’s city and
+	1.) Question: What should be your approach to getting the distance between the customerâ€™s city and
 		the other cities on the list?
 		Answer: Since the GetDistance method works further uses the AphabeticalDistance method, It is posible to size the different distances with numerical values so it ok to save the difference between distances with numerical computed values in ascending order.
 	2.) Question: How would you get the 5 closest events and how would you send them to the client in an
