@@ -1,0 +1,15 @@
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\StubhubCodeTest.exe
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\StubhubCodeTest.deps.json
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\StubhubCodeTest.runtimeconfig.json
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\StubhubCodeTest.dll
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\ref\StubhubCodeTest.dll
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\bin\Debug\net6.0\StubhubCodeTest.pdb
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.AssemblyInfoInputs.cache
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.AssemblyInfo.cs
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.dll
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\ref\StubhubCodeTest.dll
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.pdb
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.genruntimeconfig.cache
+C:\Users\opeaj\source\repos\StubhubCodeTest\StubhubCodeTest\obj\Debug\net6.0\StubhubCodeTest.csproj.AssemblyReference.cache
